@@ -10,4 +10,4 @@ A simple HTML page utilizing Bootstrap to display a greeting message.
 The page displays 'Hello World' in an h1 tag with id='greeting', styled with Bootstrap.
 
 ## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License.
